@@ -1,5 +1,5 @@
 # My Portfolio Website
-Hi! I am Gaurav Jangid, a B.Tech student in AI & Data Science.
+Hi! I am Gaurav Jangid, A B.Tech student in Artificial Intelligence & Data Science.
 
 ## About This Project
 This is my personal portfolio website built using HTML, CSS, and JavaScript. 
